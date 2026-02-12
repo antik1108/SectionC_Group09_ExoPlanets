@@ -12,7 +12,8 @@
 | 2    | [Member Name 2] | [Enrollment No. 2] |
 | 3    | [Member Name 3] | [Enrollment No. 3] |
 | 4    | [Member Name 4] | [Enrollment No. 4] |
-| 5    | Antik Mondal| 2401010084 |
+| 5    | Antik Mondal    | 2401010084 |
+| 6    | Bineet Keshari  | 2401010130 |
 
 ## Project Overview
 [Add project description here]
